@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "651638078449",
+    "project_id": "newsapp-154c6",
+    "storage_bucket": "newsapp-154c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651638078449:android:70366a641dd35a45d12250",
+        "android_client_info": {
+          "package_name": "com.example.moengagenewstaskapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjQ5AO_YoKXDQcC319rdTJh0EoQMt7auU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

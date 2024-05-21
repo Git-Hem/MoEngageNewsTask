@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MoEngageNewsTaskApp</string>
+        <string name="top_news">Top News</string>
+        <string name="by">By</string>
+        <string name="published_at">Published At</string>
+        <string name="read_more">read more...</string>
+</resources>
